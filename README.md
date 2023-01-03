@@ -10,7 +10,7 @@ No método OneTimeSetUp, crie uma nova instância do ChromeDriver e/ou FirefoxDr
 Crie os métodos de teste e utilize os métodos do Selenium para navegar até o site desejado, interagir com elementos da página e recuperar os resultados da pesquisa.
 No método OneTimeTearDown, use o método Quit para fechar o web driver.
 
-<h2 align="center">Autor</h2>
+<h2>Autor</h2>
 Matheus Agostinho
 
 
